@@ -1,0 +1,398 @@
+{
+  "data": [
+    {
+      "x": [1.72, 1.03, 0.62, 0.9, 0.7, 2.02, 1.01, 1.5, 1.23, 0.72, 0.73, 0.5, 1],
+      "y": [7802, 3507, 933, 1939, 1115, 6346, 2291, 4284, 4050, 1147, 1628, 613, 2280],
+      "text": ["carat: 1.72<br />price:  7802<br />clarity: I1", "carat: 1.03<br />price:  3507<br />clarity: I1", "carat: 0.62<br />price:   933<br />clarity: I1", "carat: 0.90<br />price:  1939<br />clarity: I1", "carat: 0.70<br />price:  1115<br />clarity: I1", "carat: 2.02<br />price:  6346<br />clarity: I1", "carat: 1.01<br />price:  2291<br />clarity: I1", "carat: 1.50<br />price:  4284<br />clarity: I1", "carat: 1.23<br />price:  4050<br />clarity: I1", "carat: 0.72<br />price:  1147<br />clarity: I1", "carat: 0.73<br />price:  1628<br />clarity: I1", "carat: 0.50<br />price:   613<br />clarity: I1", "carat: 1.00<br />price:  2280<br />clarity: I1"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(68,1,84,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(68,1,84,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "I1",
+      "legendgroup": "I1",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1.2, 1.51, 2.02, 1, 1.2, 1.04, 1.06, 0.72, 0.74, 2.17, 0.91, 0.7, 0.9, 0.5, 0.9, 1, 0.33, 0.9, 0.5, 1.01, 2.05, 2.11, 1.57, 1.5, 1, 0.83, 0.75, 0.3, 0.4, 2.03, 1.01, 0.72, 0.76, 1.01, 0.79, 0.32, 0.52, 1.51, 0.91, 1.26, 1.01, 2.3, 1.01, 1.6, 0.71, 1.71, 0.8, 0.54, 1.1, 1.64, 0.73, 2.01, 1.72, 0.92, 0.9, 0.32, 2.18, 0.7, 0.92, 1.59, 1.27, 1.2, 1.06, 1.37, 1.17, 0.41, 0.51, 1.04, 0.94, 0.3, 0.74, 1.12, 1.01, 0.76, 0.76, 1.07, 1.31, 0.92, 1.7, 0.72, 2.16, 0.92, 2.49, 1.01, 1.31, 0.7, 2.3, 0.92, 1.07, 1.6, 2.3, 1.13, 1.01, 0.33, 0.4, 0.43, 1.24, 0.33, 1.1, 1.11, 1.05, 1.52, 1.28, 0.72, 1.01, 1.01, 0.95, 0.5, 0.52, 1.21, 0.5, 1.01, 1.25, 1.25, 1.7, 1.01, 0.53, 0.51, 1.02, 0.5, 0.5, 1.01, 0.9, 1.54, 0.71, 1, 0.38, 0.9, 1.19, 0.39, 0.43, 2.03, 1.19, 2.18, 0.58, 1.66, 1.05, 1.15, 1.51, 0.31, 0.34, 0.54, 0.5, 0.41, 0.9, 1.22, 0.7, 1.16, 1.19, 0.35, 1.19, 0.92, 1.26, 0.82, 0.9, 1.74, 1.5, 0.41, 2.01, 0.3, 0.74, 1.46, 1.7, 0.55, 0.71, 0.52, 1.06, 1, 1.5, 1.51, 0.9, 1.22, 0.72, 0.73, 1.5, 0.54, 1.75, 1.05, 0.41, 2.03, 0.51, 0.7, 2, 0.91, 1.01, 0.72, 1.03],
+      "y": [3880, 7723, 11715, 4480, 5779, 4804, 4132, 2115, 2617, 13084, 3096, 2453, 3704, 1020, 3205, 4620, 492, 3715, 1306, 5703, 14071, 12633, 9077, 7728, 4628, 3143, 2111, 574, 597, 12268, 4436, 2050, 2469, 4566, 2348, 449, 1412, 9555, 3911, 6350, 4668, 14215, 4242, 9229, 2331, 6971, 2363, 1340, 3271, 8743, 2376, 16111, 8630, 3763, 3084, 576, 15850, 2335, 4096, 9972, 5715, 5376, 4682, 6609, 4488, 648, 1195, 3832, 3099, 506, 2190, 5018, 4638, 2143, 2451, 4232, 6089, 3083, 7650, 2056, 18001, 3823, 18325, 3905, 4743, 2573, 15433, 3941, 4119, 6272, 12944, 4271, 4397, 463, 597, 858, 4462, 434, 4269, 4914, 4204, 8194, 5995, 2001, 3674, 4412, 3830, 1157, 1210, 6125, 1180, 4327, 5740, 6030, 9864, 3852, 1220, 1359, 4291, 1185, 1006, 4666, 3918, 7707, 2031, 4727, 812, 3470, 4078, 451, 729, 13229, 5822, 16842, 1563, 5310, 4742, 4959, 7815, 558, 536, 1249, 1243, 600, 3552, 4974, 2464, 4969, 4798, 630, 5504, 4871, 5998, 2867, 3205, 10874, 7182, 818, 17179, 394, 2594, 7931, 9745, 1368, 2637, 1289, 5258, 3991, 6770, 7235, 3256, 4974, 2401, 2729, 7211, 1250, 8385, 3457, 784, 16642, 1268, 1817, 17760, 3763, 4434, 2125, 4845],
+      "text": ["carat: 1.20<br />price:  3880<br />clarity: SI2", "carat: 1.51<br />price:  7723<br />clarity: SI2", "carat: 2.02<br />price: 11715<br />clarity: SI2", "carat: 1.00<br />price:  4480<br />clarity: SI2", "carat: 1.20<br />price:  5779<br />clarity: SI2", "carat: 1.04<br />price:  4804<br />clarity: SI2", "carat: 1.06<br />price:  4132<br />clarity: SI2", "carat: 0.72<br />price:  2115<br />clarity: SI2", "carat: 0.74<br />price:  2617<br />clarity: SI2", "carat: 2.17<br />price: 13084<br />clarity: SI2", "carat: 0.91<br />price:  3096<br />clarity: SI2", "carat: 0.70<br />price:  2453<br />clarity: SI2", "carat: 0.90<br />price:  3704<br />clarity: SI2", "carat: 0.50<br />price:  1020<br />clarity: SI2", "carat: 0.90<br />price:  3205<br />clarity: SI2", "carat: 1.00<br />price:  4620<br />clarity: SI2", "carat: 0.33<br />price:   492<br />clarity: SI2", "carat: 0.90<br />price:  3715<br />clarity: SI2", "carat: 0.50<br />price:  1306<br />clarity: SI2", "carat: 1.01<br />price:  5703<br />clarity: SI2", "carat: 2.05<br />price: 14071<br />clarity: SI2", "carat: 2.11<br />price: 12633<br />clarity: SI2", "carat: 1.57<br />price:  9077<br />clarity: SI2", "carat: 1.50<br />price:  7728<br />clarity: SI2", "carat: 1.00<br />price:  4628<br />clarity: SI2", "carat: 0.83<br />price:  3143<br />clarity: SI2", "carat: 0.75<br />price:  2111<br />clarity: SI2", "carat: 0.30<br />price:   574<br />clarity: SI2", "carat: 0.40<br />price:   597<br />clarity: SI2", "carat: 2.03<br />price: 12268<br />clarity: SI2", "carat: 1.01<br />price:  4436<br />clarity: SI2", "carat: 0.72<br />price:  2050<br />clarity: SI2", "carat: 0.76<br />price:  2469<br />clarity: SI2", "carat: 1.01<br />price:  4566<br />clarity: SI2", "carat: 0.79<br />price:  2348<br />clarity: SI2", "carat: 0.32<br />price:   449<br />clarity: SI2", "carat: 0.52<br />price:  1412<br />clarity: SI2", "carat: 1.51<br />price:  9555<br />clarity: SI2", "carat: 0.91<br />price:  3911<br />clarity: SI2", "carat: 1.26<br />price:  6350<br />clarity: SI2", "carat: 1.01<br />price:  4668<br />clarity: SI2", "carat: 2.30<br />price: 14215<br />clarity: SI2", "carat: 1.01<br />price:  4242<br />clarity: SI2", "carat: 1.60<br />price:  9229<br />clarity: SI2", "carat: 0.71<br />price:  2331<br />clarity: SI2", "carat: 1.71<br />price:  6971<br />clarity: SI2", "carat: 0.80<br />price:  2363<br />clarity: SI2", "carat: 0.54<br />price:  1340<br />clarity: SI2", "carat: 1.10<br />price:  3271<br />clarity: SI2", "carat: 1.64<br />price:  8743<br />clarity: SI2", "carat: 0.73<br />price:  2376<br />clarity: SI2", "carat: 2.01<br />price: 16111<br />clarity: SI2", "carat: 1.72<br />price:  8630<br />clarity: SI2", "carat: 0.92<br />price:  3763<br />clarity: SI2", "carat: 0.90<br />price:  3084<br />clarity: SI2", "carat: 0.32<br />price:   576<br />clarity: SI2", "carat: 2.18<br />price: 15850<br />clarity: SI2", "carat: 0.70<br />price:  2335<br />clarity: SI2", "carat: 0.92<br />price:  4096<br />clarity: SI2", "carat: 1.59<br />price:  9972<br />clarity: SI2", "carat: 1.27<br />price:  5715<br />clarity: SI2", "carat: 1.20<br />price:  5376<br />clarity: SI2", "carat: 1.06<br />price:  4682<br />clarity: SI2", "carat: 1.37<br />price:  6609<br />clarity: SI2", "carat: 1.17<br />price:  4488<br />clarity: SI2", "carat: 0.41<br />price:   648<br />clarity: SI2", "carat: 0.51<br />price:  1195<br />clarity: SI2", "carat: 1.04<br />price:  3832<br />clarity: SI2", "carat: 0.94<br />price:  3099<br />clarity: SI2", "carat: 0.30<br />price:   506<br />clarity: SI2", "carat: 0.74<br />price:  2190<br />clarity: SI2", "carat: 1.12<br />price:  5018<br />clarity: SI2", "carat: 1.01<br />price:  4638<br />clarity: SI2", "carat: 0.76<br />price:  2143<br />clarity: SI2", "carat: 0.76<br />price:  2451<br />clarity: SI2", "carat: 1.07<br />price:  4232<br />clarity: SI2", "carat: 1.31<br />price:  6089<br />clarity: SI2", "carat: 0.92<br />price:  3083<br />clarity: SI2", "carat: 1.70<br />price:  7650<br />clarity: SI2", "carat: 0.72<br />price:  2056<br />clarity: SI2", "carat: 2.16<br />price: 18001<br />clarity: SI2", "carat: 0.92<br />price:  3823<br />clarity: SI2", "carat: 2.49<br />price: 18325<br />clarity: SI2", "carat: 1.01<br />price:  3905<br />clarity: SI2", "carat: 1.31<br />price:  4743<br />clarity: SI2", "carat: 0.70<br />price:  2573<br />clarity: SI2", "carat: 2.30<br />price: 15433<br />clarity: SI2", "carat: 0.92<br />price:  3941<br />clarity: SI2", "carat: 1.07<br />price:  4119<br />clarity: SI2", "carat: 1.60<br />price:  6272<br />clarity: SI2", "carat: 2.30<br />price: 12944<br />clarity: SI2", "carat: 1.13<br />price:  4271<br />clarity: SI2", "carat: 1.01<br />price:  4397<br />clarity: SI2", "carat: 0.33<br />price:   463<br />clarity: SI2", "carat: 0.40<br />price:   597<br />clarity: SI2", "carat: 0.43<br />price:   858<br />clarity: SI2", "carat: 1.24<br />price:  4462<br />clarity: SI2", "carat: 0.33<br />price:   434<br />clarity: SI2", "carat: 1.10<br />price:  4269<br />clarity: SI2", "carat: 1.11<br />price:  4914<br />clarity: SI2", "carat: 1.05<br />price:  4204<br />clarity: SI2", "carat: 1.52<br />price:  8194<br />clarity: SI2", "carat: 1.28<br />price:  5995<br />clarity: SI2", "carat: 0.72<br />price:  2001<br />clarity: SI2", "carat: 1.01<br />price:  3674<br />clarity: SI2", "carat: 1.01<br />price:  4412<br />clarity: SI2", "carat: 0.95<br />price:  3830<br />clarity: SI2", "carat: 0.50<br />price:  1157<br />clarity: SI2", "carat: 0.52<br />price:  1210<br />clarity: SI2", "carat: 1.21<br />price:  6125<br />clarity: SI2", "carat: 0.50<br />price:  1180<br />clarity: SI2", "carat: 1.01<br />price:  4327<br />clarity: SI2", "carat: 1.25<br />price:  5740<br />clarity: SI2", "carat: 1.25<br />price:  6030<br />clarity: SI2", "carat: 1.70<br />price:  9864<br />clarity: SI2", "carat: 1.01<br />price:  3852<br />clarity: SI2", "carat: 0.53<br />price:  1220<br />clarity: SI2", "carat: 0.51<br />price:  1359<br />clarity: SI2", "carat: 1.02<br />price:  4291<br />clarity: SI2", "carat: 0.50<br />price:  1185<br />clarity: SI2", "carat: 0.50<br />price:  1006<br />clarity: SI2", "carat: 1.01<br />price:  4666<br />clarity: SI2", "carat: 0.90<br />price:  3918<br />clarity: SI2", "carat: 1.54<br />price:  7707<br />clarity: SI2", "carat: 0.71<br />price:  2031<br />clarity: SI2", "carat: 1.00<br />price:  4727<br />clarity: SI2", "carat: 0.38<br />price:   812<br />clarity: SI2", "carat: 0.90<br />price:  3470<br />clarity: SI2", "carat: 1.19<br />price:  4078<br />clarity: SI2", "carat: 0.39<br />price:   451<br />clarity: SI2", "carat: 0.43<br />price:   729<br />clarity: SI2", "carat: 2.03<br />price: 13229<br />clarity: SI2", "carat: 1.19<br />price:  5822<br />clarity: SI2", "carat: 2.18<br />price: 16842<br />clarity: SI2", "carat: 0.58<br />price:  1563<br />clarity: SI2", "carat: 1.66<br />price:  5310<br />clarity: SI2", "carat: 1.05<br />price:  4742<br />clarity: SI2", "carat: 1.15<br />price:  4959<br />clarity: SI2", "carat: 1.51<br />price:  7815<br />clarity: SI2", "carat: 0.31<br />price:   558<br />clarity: SI2", "carat: 0.34<br />price:   536<br />clarity: SI2", "carat: 0.54<br />price:  1249<br />clarity: SI2", "carat: 0.50<br />price:  1243<br />clarity: SI2", "carat: 0.41<br />price:   600<br />clarity: SI2", "carat: 0.90<br />price:  3552<br />clarity: SI2", "carat: 1.22<br />price:  4974<br />clarity: SI2", "carat: 0.70<br />price:  2464<br />clarity: SI2", "carat: 1.16<br />price:  4969<br />clarity: SI2", "carat: 1.19<br />price:  4798<br />clarity: SI2", "carat: 0.35<br />price:   630<br />clarity: SI2", "carat: 1.19<br />price:  5504<br />clarity: SI2", "carat: 0.92<br />price:  4871<br />clarity: SI2", "carat: 1.26<br />price:  5998<br />clarity: SI2", "carat: 0.82<br />price:  2867<br />clarity: SI2", "carat: 0.90<br />price:  3205<br />clarity: SI2", "carat: 1.74<br />price: 10874<br />clarity: SI2", "carat: 1.50<br />price:  7182<br />clarity: SI2", "carat: 0.41<br />price:   818<br />clarity: SI2", "carat: 2.01<br />price: 17179<br />clarity: SI2", "carat: 0.30<br />price:   394<br />clarity: SI2", "carat: 0.74<br />price:  2594<br />clarity: SI2", "carat: 1.46<br />price:  7931<br />clarity: SI2", "carat: 1.70<br />price:  9745<br />clarity: SI2", "carat: 0.55<br />price:  1368<br />clarity: SI2", "carat: 0.71<br />price:  2637<br />clarity: SI2", "carat: 0.52<br />price:  1289<br />clarity: SI2", "carat: 1.06<br />price:  5258<br />clarity: SI2", "carat: 1.00<br />price:  3991<br />clarity: SI2", "carat: 1.50<br />price:  6770<br />clarity: SI2", "carat: 1.51<br />price:  7235<br />clarity: SI2", "carat: 0.90<br />price:  3256<br />clarity: SI2", "carat: 1.22<br />price:  4974<br />clarity: SI2", "carat: 0.72<br />price:  2401<br />clarity: SI2", "carat: 0.73<br />price:  2729<br />clarity: SI2", "carat: 1.50<br />price:  7211<br />clarity: SI2", "carat: 0.54<br />price:  1250<br />clarity: SI2", "carat: 1.75<br />price:  8385<br />clarity: SI2", "carat: 1.05<br />price:  3457<br />clarity: SI2", "carat: 0.41<br />price:   784<br />clarity: SI2", "carat: 2.03<br />price: 16642<br />clarity: SI2", "carat: 0.51<br />price:  1268<br />clarity: SI2", "carat: 0.70<br />price:  1817<br />clarity: SI2", "carat: 2.00<br />price: 17760<br />clarity: SI2", "carat: 0.91<br />price:  3763<br />clarity: SI2", "carat: 1.01<br />price:  4434<br />clarity: SI2", "carat: 0.72<br />price:  2125<br />clarity: SI2", "carat: 1.03<br />price:  4845<br />clarity: SI2"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(70,51,126,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(70,51,126,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "SI2",
+      "legendgroup": "SI2",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.54, 1.5, 0.7, 0.43, 0.5, 0.5, 0.5, 0.71, 0.51, 1.03, 0.85, 0.76, 0.3, 0.73, 0.81, 0.3, 0.47, 0.31, 1.53, 0.51, 1.05, 0.7, 0.34, 0.9, 0.9, 0.71, 2.01, 1.2, 0.71, 0.33, 1.8, 0.41, 1.28, 0.9, 0.55, 1.51, 1.17, 1, 0.6, 0.63, 0.34, 0.41, 0.7, 1.18, 0.75, 0.3, 1.5, 2.5, 0.7, 1.02, 2.01, 0.32, 1.03, 0.35, 0.9, 0.31, 1.14, 0.31, 0.57, 0.91, 0.54, 1.3, 0.72, 0.34, 0.72, 1.64, 0.71, 0.57, 1, 0.51, 0.7, 0.8, 1.03, 1.34, 1.71, 1.7, 0.5, 1.02, 0.3, 0.41, 0.53, 1.01, 1.03, 0.6, 0.71, 1, 1.09, 1.53, 1.51, 1, 1.5, 1.51, 1.01, 0.3, 1.58, 0.5, 0.53, 0.41, 1.23, 1.06, 1.03, 0.5, 0.31, 0.41, 1.2, 0.38, 0.75, 0.7, 1.5, 0.3, 0.9, 0.71, 1.03, 0.33, 0.42, 1.51, 0.42, 0.32, 1.35, 0.43, 0.7, 1.01, 0.52, 0.75, 1.34, 1.01, 0.7, 0.42, 0.51, 0.43, 1.01, 0.35, 1.7, 0.9, 0.75, 2.04, 0.37, 1.01, 0.4, 0.77, 1.22, 1.5, 1.2, 1.01, 0.34, 0.42, 1.01, 0.3, 0.83, 0.71, 0.71, 0.4, 1.01, 1.72, 1.02, 1.2, 1.51, 1.7, 0.31, 1.51, 1.51, 1, 1, 1.04, 2.01, 0.58, 0.3, 0.7, 0.7, 0.7, 1.73, 0.71, 0.3, 2.04, 0.64, 0.74, 1.01, 0.77, 0.63, 2.01, 0.5, 0.44, 0.8, 0.9, 0.72, 0.9, 0.4, 0.9, 0.82, 0.4, 1.02, 0.33, 0.73, 1.92, 0.38, 0.72, 2.01, 0.7, 1.09, 0.31, 0.54, 1.53, 0.4, 1.02, 1.17, 1.03, 0.4, 0.5, 1.33, 1.54, 0.72, 0.73, 1.06, 1.2, 0.9, 0.4, 0.54, 1.01, 0.27, 0.3, 1.01, 1.11, 1.51, 0.92, 0.52, 1, 1.01, 0.93],
+      "y": [1178, 10684, 2386, 919, 994, 1337, 1293, 2817, 1438, 6059, 3084, 1915, 540, 2527, 2832, 475, 1021, 698, 11267, 1546, 5104, 1442, 596, 4612, 4447, 2240, 17849, 5763, 3502, 572, 16513, 646, 6210, 2753, 1819, 10063, 4586, 4602, 1565, 1372, 803, 923, 2310, 6159, 2821, 477, 10271, 17028, 2331, 5814, 15919, 589, 3749, 644, 4435, 544, 5548, 544, 1218, 3618, 1404, 5569, 2246, 750, 1832, 12779, 2822, 1180, 4155, 1340, 2058, 3312, 5804, 7893, 9881, 8044, 1181, 5232, 709, 683, 1549, 6346, 5710, 1599, 2522, 4712, 5219, 11713, 11087, 5292, 7955, 11487, 4767, 394, 13329, 1050, 1161, 791, 5412, 5445, 5241, 1374, 591, 1015, 6129, 581, 2142, 2138, 6523, 450, 3382, 2198, 4928, 579, 898, 8752, 931, 647, 6573, 792, 2023, 5271, 1388, 3045, 7636, 4480, 2184, 687, 1312, 852, 4751, 744, 14623, 3954, 2964, 14775, 613, 4525, 687, 2475, 7059, 8685, 5669, 4241, 626, 970, 4773, 475, 3560, 1841, 2282, 798, 4479, 7840, 4558, 5816, 12738, 10853, 698, 9336, 8283, 5292, 3836, 5300, 18027, 1641, 499, 2445, 2537, 2268, 9271, 2329, 514, 18153, 1967, 2655, 5224, 2338, 1846, 17759, 1433, 998, 3630, 3669, 2262, 3567, 636, 3308, 2033, 772, 5255, 780, 2659, 15472, 593, 1799, 12048, 2459, 6043, 593, 1065, 9476, 737, 4708, 4617, 5804, 945, 1410, 5857, 11333, 2396, 2360, 5834, 6578, 4304, 673, 1410, 5443, 426, 641, 5543, 5010, 8637, 3165, 1019, 4416, 3676, 4527],
+      "text": ["carat: 0.54<br />price:  1178<br />clarity: SI1", "carat: 1.50<br />price: 10684<br />clarity: SI1", "carat: 0.70<br />price:  2386<br />clarity: SI1", "carat: 0.43<br />price:   919<br />clarity: SI1", "carat: 0.50<br />price:   994<br />clarity: SI1", "carat: 0.50<br />price:  1337<br />clarity: SI1", "carat: 0.50<br />price:  1293<br />clarity: SI1", "carat: 0.71<br />price:  2817<br />clarity: SI1", "carat: 0.51<br />price:  1438<br />clarity: SI1", "carat: 1.03<br />price:  6059<br />clarity: SI1", "carat: 0.85<br />price:  3084<br />clarity: SI1", "carat: 0.76<br />price:  1915<br />clarity: SI1", "carat: 0.30<br />price:   540<br />clarity: SI1", "carat: 0.73<br />price:  2527<br />clarity: SI1", "carat: 0.81<br />price:  2832<br />clarity: SI1", "carat: 0.30<br />price:   475<br />clarity: SI1", "carat: 0.47<br />price:  1021<br />clarity: SI1", "carat: 0.31<br />price:   698<br />clarity: SI1", "carat: 1.53<br />price: 11267<br />clarity: SI1", "carat: 0.51<br />price:  1546<br />clarity: SI1", "carat: 1.05<br />price:  5104<br />clarity: SI1", "carat: 0.70<br />price:  1442<br />clarity: SI1", "carat: 0.34<br />price:   596<br />clarity: SI1", "carat: 0.90<br />price:  4612<br />clarity: SI1", "carat: 0.90<br />price:  4447<br />clarity: SI1", "carat: 0.71<br />price:  2240<br />clarity: SI1", "carat: 2.01<br />price: 17849<br />clarity: SI1", "carat: 1.20<br />price:  5763<br />clarity: SI1", "carat: 0.71<br />price:  3502<br />clarity: SI1", "carat: 0.33<br />price:   572<br />clarity: SI1", "carat: 1.80<br />price: 16513<br />clarity: SI1", "carat: 0.41<br />price:   646<br />clarity: SI1", "carat: 1.28<br />price:  6210<br />clarity: SI1", "carat: 0.90<br />price:  2753<br />clarity: SI1", "carat: 0.55<br />price:  1819<br />clarity: SI1", "carat: 1.51<br />price: 10063<br />clarity: SI1", "carat: 1.17<br />price:  4586<br />clarity: SI1", "carat: 1.00<br />price:  4602<br />clarity: SI1", "carat: 0.60<br />price:  1565<br />clarity: SI1", "carat: 0.63<br />price:  1372<br />clarity: SI1", "carat: 0.34<br />price:   803<br />clarity: SI1", "carat: 0.41<br />price:   923<br />clarity: SI1", "carat: 0.70<br />price:  2310<br />clarity: SI1", "carat: 1.18<br />price:  6159<br />clarity: SI1", "carat: 0.75<br />price:  2821<br />clarity: SI1", "carat: 0.30<br />price:   477<br />clarity: SI1", "carat: 1.50<br />price: 10271<br />clarity: SI1", "carat: 2.50<br />price: 17028<br />clarity: SI1", "carat: 0.70<br />price:  2331<br />clarity: SI1", "carat: 1.02<br />price:  5814<br />clarity: SI1", "carat: 2.01<br />price: 15919<br />clarity: SI1", "carat: 0.32<br />price:   589<br />clarity: SI1", "carat: 1.03<br />price:  3749<br />clarity: SI1", "carat: 0.35<br />price:   644<br />clarity: SI1", "carat: 0.90<br />price:  4435<br />clarity: SI1", "carat: 0.31<br />price:   544<br />clarity: SI1", "carat: 1.14<br />price:  5548<br />clarity: SI1", "carat: 0.31<br />price:   544<br />clarity: SI1", "carat: 0.57<br />price:  1218<br />clarity: SI1", "carat: 0.91<br />price:  3618<br />clarity: SI1", "carat: 0.54<br />price:  1404<br />clarity: SI1", "carat: 1.30<br />price:  5569<br />clarity: SI1", "carat: 0.72<br />price:  2246<br />clarity: SI1", "carat: 0.34<br />price:   750<br />clarity: SI1", "carat: 0.72<br />price:  1832<br />clarity: SI1", "carat: 1.64<br />price: 12779<br />clarity: SI1", "carat: 0.71<br />price:  2822<br />clarity: SI1", "carat: 0.57<br />price:  1180<br />clarity: SI1", "carat: 1.00<br />price:  4155<br />clarity: SI1", "carat: 0.51<br />price:  1340<br />clarity: SI1", "carat: 0.70<br />price:  2058<br />clarity: SI1", "carat: 0.80<br />price:  3312<br />clarity: SI1", "carat: 1.03<br />price:  5804<br />clarity: SI1", "carat: 1.34<br />price:  7893<br />clarity: SI1", "carat: 1.71<br />price:  9881<br />clarity: SI1", "carat: 1.70<br />price:  8044<br />clarity: SI1", "carat: 0.50<br />price:  1181<br />clarity: SI1", "carat: 1.02<br />price:  5232<br />clarity: SI1", "carat: 0.30<br />price:   709<br />clarity: SI1", "carat: 0.41<br />price:   683<br />clarity: SI1", "carat: 0.53<br />price:  1549<br />clarity: SI1", "carat: 1.01<br />price:  6346<br />clarity: SI1", "carat: 1.03<br />price:  5710<br />clarity: SI1", "carat: 0.60<br />price:  1599<br />clarity: SI1", "carat: 0.71<br />price:  2522<br />clarity: SI1", "carat: 1.00<br />price:  4712<br />clarity: SI1", "carat: 1.09<br />price:  5219<br />clarity: SI1", "carat: 1.53<br />price: 11713<br />clarity: SI1", "carat: 1.51<br />price: 11087<br />clarity: SI1", "carat: 1.00<br />price:  5292<br />clarity: SI1", "carat: 1.50<br />price:  7955<br />clarity: SI1", "carat: 1.51<br />price: 11487<br />clarity: SI1", "carat: 1.01<br />price:  4767<br />clarity: SI1", "carat: 0.30<br />price:   394<br />clarity: SI1", "carat: 1.58<br />price: 13329<br />clarity: SI1", "carat: 0.50<br />price:  1050<br />clarity: SI1", "carat: 0.53<br />price:  1161<br />clarity: SI1", "carat: 0.41<br />price:   791<br />clarity: SI1", "carat: 1.23<br />price:  5412<br />clarity: SI1", "carat: 1.06<br />price:  5445<br />clarity: SI1", "carat: 1.03<br />price:  5241<br />clarity: SI1", "carat: 0.50<br />price:  1374<br />clarity: SI1", "carat: 0.31<br />price:   591<br />clarity: SI1", "carat: 0.41<br />price:  1015<br />clarity: SI1", "carat: 1.20<br />price:  6129<br />clarity: SI1", "carat: 0.38<br />price:   581<br />clarity: SI1", "carat: 0.75<br />price:  2142<br />clarity: SI1", "carat: 0.70<br />price:  2138<br />clarity: SI1", "carat: 1.50<br />price:  6523<br />clarity: SI1", "carat: 0.30<br />price:   450<br />clarity: SI1", "carat: 0.90<br />price:  3382<br />clarity: SI1", "carat: 0.71<br />price:  2198<br />clarity: SI1", "carat: 1.03<br />price:  4928<br />clarity: SI1", "carat: 0.33<br />price:   579<br />clarity: SI1", "carat: 0.42<br />price:   898<br />clarity: SI1", "carat: 1.51<br />price:  8752<br />clarity: SI1", "carat: 0.42<br />price:   931<br />clarity: SI1", "carat: 0.32<br />price:   647<br />clarity: SI1", "carat: 1.35<br />price:  6573<br />clarity: SI1", "carat: 0.43<br />price:   792<br />clarity: SI1", "carat: 0.70<br />price:  2023<br />clarity: SI1", "carat: 1.01<br />price:  5271<br />clarity: SI1", "carat: 0.52<br />price:  1388<br />clarity: SI1", "carat: 0.75<br />price:  3045<br />clarity: SI1", "carat: 1.34<br />price:  7636<br />clarity: SI1", "carat: 1.01<br />price:  4480<br />clarity: SI1", "carat: 0.70<br />price:  2184<br />clarity: SI1", "carat: 0.42<br />price:   687<br />clarity: SI1", "carat: 0.51<br />price:  1312<br />clarity: SI1", "carat: 0.43<br />price:   852<br />clarity: SI1", "carat: 1.01<br />price:  4751<br />clarity: SI1", "carat: 0.35<br />price:   744<br />clarity: SI1", "carat: 1.70<br />price: 14623<br />clarity: SI1", "carat: 0.90<br />price:  3954<br />clarity: SI1", "carat: 0.75<br />price:  2964<br />clarity: SI1", "carat: 2.04<br />price: 14775<br />clarity: SI1", "carat: 0.37<br />price:   613<br />clarity: SI1", "carat: 1.01<br />price:  4525<br />clarity: SI1", "carat: 0.40<br />price:   687<br />clarity: SI1", "carat: 0.77<br />price:  2475<br />clarity: SI1", "carat: 1.22<br />price:  7059<br />clarity: SI1", "carat: 1.50<br />price:  8685<br />clarity: SI1", "carat: 1.20<br />price:  5669<br />clarity: SI1", "carat: 1.01<br />price:  4241<br />clarity: SI1", "carat: 0.34<br />price:   626<br />clarity: SI1", "carat: 0.42<br />price:   970<br />clarity: SI1", "carat: 1.01<br />price:  4773<br />clarity: SI1", "carat: 0.30<br />price:   475<br />clarity: SI1", "carat: 0.83<br />price:  3560<br />clarity: SI1", "carat: 0.71<br />price:  1841<br />clarity: SI1", "carat: 0.71<br />price:  2282<br />clarity: SI1", "carat: 0.40<br />price:   798<br />clarity: SI1", "carat: 1.01<br />price:  4479<br />clarity: SI1", "carat: 1.72<br />price:  7840<br />clarity: SI1", "carat: 1.02<br />price:  4558<br />clarity: SI1", "carat: 1.20<br />price:  5816<br />clarity: SI1", "carat: 1.51<br />price: 12738<br />clarity: SI1", "carat: 1.70<br />price: 10853<br />clarity: SI1", "carat: 0.31<br />price:   698<br />clarity: SI1", "carat: 1.51<br />price:  9336<br />clarity: SI1", "carat: 1.51<br />price:  8283<br />clarity: SI1", "carat: 1.00<br />price:  5292<br />clarity: SI1", "carat: 1.00<br />price:  3836<br />clarity: SI1", "carat: 1.04<br />price:  5300<br />clarity: SI1", "carat: 2.01<br />price: 18027<br />clarity: SI1", "carat: 0.58<br />price:  1641<br />clarity: SI1", "carat: 0.30<br />price:   499<br />clarity: SI1", "carat: 0.70<br />price:  2445<br />clarity: SI1", "carat: 0.70<br />price:  2537<br />clarity: SI1", "carat: 0.70<br />price:  2268<br />clarity: SI1", "carat: 1.73<br />price:  9271<br />clarity: SI1", "carat: 0.71<br />price:  2329<br />clarity: SI1", "carat: 0.30<br />price:   514<br />clarity: SI1", "carat: 2.04<br />price: 18153<br />clarity: SI1", "carat: 0.64<br />price:  1967<br />clarity: SI1", "carat: 0.74<br />price:  2655<br />clarity: SI1", "carat: 1.01<br />price:  5224<br />clarity: SI1", "carat: 0.77<br />price:  2338<br />clarity: SI1", "carat: 0.63<br />price:  1846<br />clarity: SI1", "carat: 2.01<br />price: 17759<br />clarity: SI1", "carat: 0.50<br />price:  1433<br />clarity: SI1", "carat: 0.44<br />price:   998<br />clarity: SI1", "carat: 0.80<br />price:  3630<br />clarity: SI1", "carat: 0.90<br />price:  3669<br />clarity: SI1", "carat: 0.72<br />price:  2262<br />clarity: SI1", "carat: 0.90<br />price:  3567<br />clarity: SI1", "carat: 0.40<br />price:   636<br />clarity: SI1", "carat: 0.90<br />price:  3308<br />clarity: SI1", "carat: 0.82<br />price:  2033<br />clarity: SI1", "carat: 0.40<br />price:   772<br />clarity: SI1", "carat: 1.02<br />price:  5255<br />clarity: SI1", "carat: 0.33<br />price:   780<br />clarity: SI1", "carat: 0.73<br />price:  2659<br />clarity: SI1", "carat: 1.92<br />price: 15472<br />clarity: SI1", "carat: 0.38<br />price:   593<br />clarity: SI1", "carat: 0.72<br />price:  1799<br />clarity: SI1", "carat: 2.01<br />price: 12048<br />clarity: SI1", "carat: 0.70<br />price:  2459<br />clarity: SI1", "carat: 1.09<br />price:  6043<br />clarity: SI1", "carat: 0.31<br />price:   593<br />clarity: SI1", "carat: 0.54<br />price:  1065<br />clarity: SI1", "carat: 1.53<br />price:  9476<br />clarity: SI1", "carat: 0.40<br />price:   737<br />clarity: SI1", "carat: 1.02<br />price:  4708<br />clarity: SI1", "carat: 1.17<br />price:  4617<br />clarity: SI1", "carat: 1.03<br />price:  5804<br />clarity: SI1", "carat: 0.40<br />price:   945<br />clarity: SI1", "carat: 0.50<br />price:  1410<br />clarity: SI1", "carat: 1.33<br />price:  5857<br />clarity: SI1", "carat: 1.54<br />price: 11333<br />clarity: SI1", "carat: 0.72<br />price:  2396<br />clarity: SI1", "carat: 0.73<br />price:  2360<br />clarity: SI1", "carat: 1.06<br />price:  5834<br />clarity: SI1", "carat: 1.20<br />price:  6578<br />clarity: SI1", "carat: 0.90<br />price:  4304<br />clarity: SI1", "carat: 0.40<br />price:   673<br />clarity: SI1", "carat: 0.54<br />price:  1410<br />clarity: SI1", "carat: 1.01<br />price:  5443<br />clarity: SI1", "carat: 0.27<br />price:   426<br />clarity: SI1", "carat: 0.30<br />price:   641<br />clarity: SI1", "carat: 1.01<br />price:  5543<br />clarity: SI1", "carat: 1.11<br />price:  5010<br />clarity: SI1", "carat: 1.51<br />price:  8637<br />clarity: SI1", "carat: 0.92<br />price:  3165<br />clarity: SI1", "carat: 0.52<br />price:  1019<br />clarity: SI1", "carat: 1.00<br />price:  4416<br />clarity: SI1", "carat: 1.01<br />price:  3676<br />clarity: SI1", "carat: 0.93<br />price:  4527<br />clarity: SI1"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(54,92,141,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(54,92,141,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "SI1",
+      "legendgroup": "SI1",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1, 1.01, 2.07, 0.3, 0.53, 0.72, 2.01, 1.04, 0.32, 0.26, 0.38, 0.4, 1.01, 1.17, 0.7, 0.36, 0.31, 1.7, 0.43, 1.02, 1.24, 0.55, 1.06, 0.28, 0.38, 1.05, 0.4, 0.3, 0.75, 1.57, 0.3, 0.41, 1.5, 0.3, 0.51, 0.53, 0.32, 0.35, 1.02, 0.54, 0.76, 0.37, 0.56, 1.52, 1.15, 0.8, 0.46, 1.5, 0.78, 0.3, 0.71, 0.52, 0.31, 0.31, 1.51, 0.9, 0.51, 1.42, 1.01, 0.56, 1.2, 0.4, 0.33, 0.32, 2.14, 0.5, 0.26, 0.94, 0.7, 0.55, 0.79, 1, 1, 0.41, 0.31, 0.3, 1.52, 0.56, 0.32, 1.01, 0.4, 0.35, 0.51, 1.2, 0.53, 0.41, 1.51, 0.9, 0.9, 0.31, 0.33, 0.5, 1.59, 0.33, 1.22, 1, 1.24, 1, 0.32, 1.51, 0.43, 1.01, 0.9, 1.5, 1.35, 1.22, 0.33, 0.72, 0.51, 0.31, 1.52, 1.01, 1.02, 1.01, 1.05, 0.35, 0.55, 0.53, 0.73, 0.31, 1.07, 0.41, 0.75, 0.32, 0.33, 0.31, 0.34, 1.54, 1.08, 0.6, 1.59, 0.33, 1.06, 1.21, 0.71, 0.59, 0.7, 1.32, 2.51, 0.51, 0.9, 0.57, 1, 1.01, 0.32, 0.3, 0.36, 1.31, 1.31, 1.23, 1.7, 1.01, 0.5, 1.2, 1.09, 0.91, 0.31, 0.37, 0.75, 0.74, 0.38, 0.61, 1.24, 0.7, 0.9, 0.38, 0.36, 1.25, 1.48, 0.5, 0.5, 0.41, 0.51, 1, 0.32, 0.56, 0.34, 0.41, 0.58, 0.51, 0.3, 0.4, 1.5, 0.36, 0.41, 0.73, 0.31, 0.45, 0.31, 0.57, 1.6, 0.32, 0.7, 0.53, 1.15, 1.53, 0.3, 0.72, 1.01, 0.41, 0.71, 0.73, 1.2, 0.38, 0.3, 0.38, 0.7, 0.4],
+      "y": [6989, 7448, 15119, 605, 1598, 2802, 13003, 5777, 720, 371, 898, 842, 6787, 6558, 2154, 1094, 872, 13737, 867, 6648, 9916, 1604, 6619, 487, 866, 7028, 982, 421, 3024, 6629, 790, 1076, 11159, 844, 1442, 1604, 449, 906, 6479, 1422, 3443, 649, 1792, 7467, 7587, 3954, 918, 14372, 3473, 710, 2950, 1625, 544, 745, 9116, 4788, 1709, 10735, 4626, 1814, 8279, 909, 666, 505, 15418, 1752, 453, 4548, 1940, 1645, 2967, 8008, 4514, 813, 628, 776, 14577, 1920, 720, 6176, 814, 552, 1623, 9596, 1124, 1107, 13771, 4503, 3353, 452, 668, 1410, 7811, 666, 9292, 6451, 6962, 6762, 602, 7534, 867, 6204, 3697, 14242, 9253, 10538, 723, 2530, 1687, 489, 14217, 6159, 4604, 6081, 5370, 906, 1551, 1743, 2801, 872, 9177, 827, 3206, 720, 781, 452, 596, 15185, 6096, 1984, 9474, 1002, 6399, 10177, 2141, 1914, 2513, 10423, 18020, 1787, 3604, 1608, 5938, 6109, 648, 605, 1013, 6338, 7459, 5217, 17360, 7522, 1845, 6666, 7796, 4257, 574, 1041, 2893, 2553, 871, 1590, 8726, 3172, 4562, 703, 789, 7414, 8196, 1419, 1676, 982, 1546, 5864, 828, 1991, 745, 1107, 1670, 1438, 491, 975, 14256, 1094, 729, 3066, 625, 945, 749, 1698, 11508, 846, 2839, 1412, 7175, 6659, 658, 3270, 6004, 1107, 2777, 3411, 8486, 705, 658, 866, 2381, 1240],
+      "text": ["carat: 1.00<br />price:  6989<br />clarity: VS2", "carat: 1.01<br />price:  7448<br />clarity: VS2", "carat: 2.07<br />price: 15119<br />clarity: VS2", "carat: 0.30<br />price:   605<br />clarity: VS2", "carat: 0.53<br />price:  1598<br />clarity: VS2", "carat: 0.72<br />price:  2802<br />clarity: VS2", "carat: 2.01<br />price: 13003<br />clarity: VS2", "carat: 1.04<br />price:  5777<br />clarity: VS2", "carat: 0.32<br />price:   720<br />clarity: VS2", "carat: 0.26<br />price:   371<br />clarity: VS2", "carat: 0.38<br />price:   898<br />clarity: VS2", "carat: 0.40<br />price:   842<br />clarity: VS2", "carat: 1.01<br />price:  6787<br />clarity: VS2", "carat: 1.17<br />price:  6558<br />clarity: VS2", "carat: 0.70<br />price:  2154<br />clarity: VS2", "carat: 0.36<br />price:  1094<br />clarity: VS2", "carat: 0.31<br />price:   872<br />clarity: VS2", "carat: 1.70<br />price: 13737<br />clarity: VS2", "carat: 0.43<br />price:   867<br />clarity: VS2", "carat: 1.02<br />price:  6648<br />clarity: VS2", "carat: 1.24<br />price:  9916<br />clarity: VS2", "carat: 0.55<br />price:  1604<br />clarity: VS2", "carat: 1.06<br />price:  6619<br />clarity: VS2", "carat: 0.28<br />price:   487<br />clarity: VS2", "carat: 0.38<br />price:   866<br />clarity: VS2", "carat: 1.05<br />price:  7028<br />clarity: VS2", "carat: 0.40<br />price:   982<br />clarity: VS2", "carat: 0.30<br />price:   421<br />clarity: VS2", "carat: 0.75<br />price:  3024<br />clarity: VS2", "carat: 1.57<br />price:  6629<br />clarity: VS2", "carat: 0.30<br />price:   790<br />clarity: VS2", "carat: 0.41<br />price:  1076<br />clarity: VS2", "carat: 1.50<br />price: 11159<br />clarity: VS2", "carat: 0.30<br />price:   844<br />clarity: VS2", "carat: 0.51<br />price:  1442<br />clarity: VS2", "carat: 0.53<br />price:  1604<br />clarity: VS2", "carat: 0.32<br />price:   449<br />clarity: VS2", "carat: 0.35<br />price:   906<br />clarity: VS2", "carat: 1.02<br />price:  6479<br />clarity: VS2", "carat: 0.54<br />price:  1422<br />clarity: VS2", "carat: 0.76<br />price:  3443<br />clarity: VS2", "carat: 0.37<br />price:   649<br />clarity: VS2", "carat: 0.56<br />price:  1792<br />clarity: VS2", "carat: 1.52<br />price:  7467<br />clarity: VS2", "carat: 1.15<br />price:  7587<br />clarity: VS2", "carat: 0.80<br />price:  3954<br />clarity: VS2", "carat: 0.46<br />price:   918<br />clarity: VS2", "carat: 1.50<br />price: 14372<br />clarity: VS2", "carat: 0.78<br />price:  3473<br />clarity: VS2", "carat: 0.30<br />price:   710<br />clarity: VS2", "carat: 0.71<br />price:  2950<br />clarity: VS2", "carat: 0.52<br />price:  1625<br />clarity: VS2", "carat: 0.31<br />price:   544<br />clarity: VS2", "carat: 0.31<br />price:   745<br />clarity: VS2", "carat: 1.51<br />price:  9116<br />clarity: VS2", "carat: 0.90<br />price:  4788<br />clarity: VS2", "carat: 0.51<br />price:  1709<br />clarity: VS2", "carat: 1.42<br />price: 10735<br />clarity: VS2", "carat: 1.01<br />price:  4626<br />clarity: VS2", "carat: 0.56<br />price:  1814<br />clarity: VS2", "carat: 1.20<br />price:  8279<br />clarity: VS2", "carat: 0.40<br />price:   909<br />clarity: VS2", "carat: 0.33<br />price:   666<br />clarity: VS2", "carat: 0.32<br />price:   505<br />clarity: VS2", "carat: 2.14<br />price: 15418<br />clarity: VS2", "carat: 0.50<br />price:  1752<br />clarity: VS2", "carat: 0.26<br />price:   453<br />clarity: VS2", "carat: 0.94<br />price:  4548<br />clarity: VS2", "carat: 0.70<br />price:  1940<br />clarity: VS2", "carat: 0.55<br />price:  1645<br />clarity: VS2", "carat: 0.79<br />price:  2967<br />clarity: VS2", "carat: 1.00<br />price:  8008<br />clarity: VS2", "carat: 1.00<br />price:  4514<br />clarity: VS2", "carat: 0.41<br />price:   813<br />clarity: VS2", "carat: 0.31<br />price:   628<br />clarity: VS2", "carat: 0.30<br />price:   776<br />clarity: VS2", "carat: 1.52<br />price: 14577<br />clarity: VS2", "carat: 0.56<br />price:  1920<br />clarity: VS2", "carat: 0.32<br />price:   720<br />clarity: VS2", "carat: 1.01<br />price:  6176<br />clarity: VS2", "carat: 0.40<br />price:   814<br />clarity: VS2", "carat: 0.35<br />price:   552<br />clarity: VS2", "carat: 0.51<br />price:  1623<br />clarity: VS2", "carat: 1.20<br />price:  9596<br />clarity: VS2", "carat: 0.53<br />price:  1124<br />clarity: VS2", "carat: 0.41<br />price:  1107<br />clarity: VS2", "carat: 1.51<br />price: 13771<br />clarity: VS2", "carat: 0.90<br />price:  4503<br />clarity: VS2", "carat: 0.90<br />price:  3353<br />clarity: VS2", "carat: 0.31<br />price:   452<br />clarity: VS2", "carat: 0.33<br />price:   668<br />clarity: VS2", "carat: 0.50<br />price:  1410<br />clarity: VS2", "carat: 1.59<br />price:  7811<br />clarity: VS2", "carat: 0.33<br />price:   666<br />clarity: VS2", "carat: 1.22<br />price:  9292<br />clarity: VS2", "carat: 1.00<br />price:  6451<br />clarity: VS2", "carat: 1.24<br />price:  6962<br />clarity: VS2", "carat: 1.00<br />price:  6762<br />clarity: VS2", "carat: 0.32<br />price:   602<br />clarity: VS2", "carat: 1.51<br />price:  7534<br />clarity: VS2", "carat: 0.43<br />price:   867<br />clarity: VS2", "carat: 1.01<br />price:  6204<br />clarity: VS2", "carat: 0.90<br />price:  3697<br />clarity: VS2", "carat: 1.50<br />price: 14242<br />clarity: VS2", "carat: 1.35<br />price:  9253<br />clarity: VS2", "carat: 1.22<br />price: 10538<br />clarity: VS2", "carat: 0.33<br />price:   723<br />clarity: VS2", "carat: 0.72<br />price:  2530<br />clarity: VS2", "carat: 0.51<br />price:  1687<br />clarity: VS2", "carat: 0.31<br />price:   489<br />clarity: VS2", "carat: 1.52<br />price: 14217<br />clarity: VS2", "carat: 1.01<br />price:  6159<br />clarity: VS2", "carat: 1.02<br />price:  4604<br />clarity: VS2", "carat: 1.01<br />price:  6081<br />clarity: VS2", "carat: 1.05<br />price:  5370<br />clarity: VS2", "carat: 0.35<br />price:   906<br />clarity: VS2", "carat: 0.55<br />price:  1551<br />clarity: VS2", "carat: 0.53<br />price:  1743<br />clarity: VS2", "carat: 0.73<br />price:  2801<br />clarity: VS2", "carat: 0.31<br />price:   872<br />clarity: VS2", "carat: 1.07<br />price:  9177<br />clarity: VS2", "carat: 0.41<br />price:   827<br />clarity: VS2", "carat: 0.75<br />price:  3206<br />clarity: VS2", "carat: 0.32<br />price:   720<br />clarity: VS2", "carat: 0.33<br />price:   781<br />clarity: VS2", "carat: 0.31<br />price:   452<br />clarity: VS2", "carat: 0.34<br />price:   596<br />clarity: VS2", "carat: 1.54<br />price: 15185<br />clarity: VS2", "carat: 1.08<br />price:  6096<br />clarity: VS2", "carat: 0.60<br />price:  1984<br />clarity: VS2", "carat: 1.59<br />price:  9474<br />clarity: VS2", "carat: 0.33<br />price:  1002<br />clarity: VS2", "carat: 1.06<br />price:  6399<br />clarity: VS2", "carat: 1.21<br />price: 10177<br />clarity: VS2", "carat: 0.71<br />price:  2141<br />clarity: VS2", "carat: 0.59<br />price:  1914<br />clarity: VS2", "carat: 0.70<br />price:  2513<br />clarity: VS2", "carat: 1.32<br />price: 10423<br />clarity: VS2", "carat: 2.51<br />price: 18020<br />clarity: VS2", "carat: 0.51<br />price:  1787<br />clarity: VS2", "carat: 0.90<br />price:  3604<br />clarity: VS2", "carat: 0.57<br />price:  1608<br />clarity: VS2", "carat: 1.00<br />price:  5938<br />clarity: VS2", "carat: 1.01<br />price:  6109<br />clarity: VS2", "carat: 0.32<br />price:   648<br />clarity: VS2", "carat: 0.30<br />price:   605<br />clarity: VS2", "carat: 0.36<br />price:  1013<br />clarity: VS2", "carat: 1.31<br />price:  6338<br />clarity: VS2", "carat: 1.31<br />price:  7459<br />clarity: VS2", "carat: 1.23<br />price:  5217<br />clarity: VS2", "carat: 1.70<br />price: 17360<br />clarity: VS2", "carat: 1.01<br />price:  7522<br />clarity: VS2", "carat: 0.50<br />price:  1845<br />clarity: VS2", "carat: 1.20<br />price:  6666<br />clarity: VS2", "carat: 1.09<br />price:  7796<br />clarity: VS2", "carat: 0.91<br />price:  4257<br />clarity: VS2", "carat: 0.31<br />price:   574<br />clarity: VS2", "carat: 0.37<br />price:  1041<br />clarity: VS2", "carat: 0.75<br />price:  2893<br />clarity: VS2", "carat: 0.74<br />price:  2553<br />clarity: VS2", "carat: 0.38<br />price:   871<br />clarity: VS2", "carat: 0.61<br />price:  1590<br />clarity: VS2", "carat: 1.24<br />price:  8726<br />clarity: VS2", "carat: 0.70<br />price:  3172<br />clarity: VS2", "carat: 0.90<br />price:  4562<br />clarity: VS2", "carat: 0.38<br />price:   703<br />clarity: VS2", "carat: 0.36<br />price:   789<br />clarity: VS2", "carat: 1.25<br />price:  7414<br />clarity: VS2", "carat: 1.48<br />price:  8196<br />clarity: VS2", "carat: 0.50<br />price:  1419<br />clarity: VS2", "carat: 0.50<br />price:  1676<br />clarity: VS2", "carat: 0.41<br />price:   982<br />clarity: VS2", "carat: 0.51<br />price:  1546<br />clarity: VS2", "carat: 1.00<br />price:  5864<br />clarity: VS2", "carat: 0.32<br />price:   828<br />clarity: VS2", "carat: 0.56<br />price:  1991<br />clarity: VS2", "carat: 0.34<br />price:   745<br />clarity: VS2", "carat: 0.41<br />price:  1107<br />clarity: VS2", "carat: 0.58<br />price:  1670<br />clarity: VS2", "carat: 0.51<br />price:  1438<br />clarity: VS2", "carat: 0.30<br />price:   491<br />clarity: VS2", "carat: 0.40<br />price:   975<br />clarity: VS2", "carat: 1.50<br />price: 14256<br />clarity: VS2", "carat: 0.36<br />price:  1094<br />clarity: VS2", "carat: 0.41<br />price:   729<br />clarity: VS2", "carat: 0.73<br />price:  3066<br />clarity: VS2", "carat: 0.31<br />price:   625<br />clarity: VS2", "carat: 0.45<br />price:   945<br />clarity: VS2", "carat: 0.31<br />price:   749<br />clarity: VS2", "carat: 0.57<br />price:  1698<br />clarity: VS2", "carat: 1.60<br />price: 11508<br />clarity: VS2", "carat: 0.32<br />price:   846<br />clarity: VS2", "carat: 0.70<br />price:  2839<br />clarity: VS2", "carat: 0.53<br />price:  1412<br />clarity: VS2", "carat: 1.15<br />price:  7175<br />clarity: VS2", "carat: 1.53<br />price:  6659<br />clarity: VS2", "carat: 0.30<br />price:   658<br />clarity: VS2", "carat: 0.72<br />price:  3270<br />clarity: VS2", "carat: 1.01<br />price:  6004<br />clarity: VS2", "carat: 0.41<br />price:  1107<br />clarity: VS2", "carat: 0.71<br />price:  2777<br />clarity: VS2", "carat: 0.73<br />price:  3411<br />clarity: VS2", "carat: 1.20<br />price:  8486<br />clarity: VS2", "carat: 0.38<br />price:   705<br />clarity: VS2", "carat: 0.30<br />price:   658<br />clarity: VS2", "carat: 0.38<br />price:   866<br />clarity: VS2", "carat: 0.70<br />price:  2381<br />clarity: VS2", "carat: 0.40<br />price:  1240<br />clarity: VS2"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(39,127,142,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(39,127,142,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "VS2",
+      "legendgroup": "VS2",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.3, 0.55, 0.72, 0.57, 1.08, 0.33, 1, 0.31, 0.54, 0.33, 1.7, 0.9, 0.54, 1, 0.4, 1.27, 0.72, 0.32, 1.01, 0.31, 1.52, 1.01, 0.31, 0.58, 1.2, 0.33, 0.54, 1.51, 0.53, 2.05, 0.3, 0.35, 0.8, 0.5, 0.58, 0.3, 0.48, 1.05, 1.21, 0.31, 1.19, 1.52, 0.71, 0.52, 1.04, 0.25, 0.49, 0.28, 1.56, 1.09, 0.71, 1.01, 1.7, 0.4, 0.7, 0.53, 1.32, 1.7, 0.54, 0.43, 1, 0.29, 0.41, 1.09, 1.04, 0.45, 1, 0.3, 0.32, 1.16, 0.57, 0.4, 0.3, 0.32, 0.31, 1.21, 0.6, 1.12, 1.5, 0.29, 0.34, 0.41, 1.01, 0.7, 0.33, 0.72, 1.2, 1, 0.33, 0.72, 0.44, 0.74, 1.14, 0.37, 0.6, 1.51, 0.31, 2.22, 0.23, 0.26, 0.41, 0.91, 0.3, 1.03, 0.71, 0.67, 1.1, 0.84, 0.9, 0.3, 0.32, 0.4, 0.31, 0.71, 0.42, 1.32, 0.71, 1.06, 0.78, 0.58, 0.42, 0.32, 0.32, 0.41, 0.3, 0.74, 0.3, 0.33, 0.96, 0.41, 1, 0.32, 0.73, 0.73, 2, 0.41, 0.59, 0.35, 1.01, 1.31, 0.57, 1.23, 0.3, 0.32, 0.3, 0.57, 1.56, 0.71, 0.84, 0.51, 0.32, 0.58, 0.74, 0.55, 0.24, 0.71, 1.04, 0.71, 0.78, 0.71, 1.5, 1.23, 0.23, 0.53, 1, 0.52, 0.53],
+      "y": [608, 2079, 3219, 1665, 6982, 579, 6606, 625, 1630, 743, 12996, 3175, 1760, 6000, 810, 9371, 2998, 702, 4412, 544, 11804, 6499, 544, 1911, 8596, 579, 1941, 14028, 1636, 15109, 491, 792, 3603, 1807, 2185, 473, 1404, 7523, 6607, 489, 7181, 7186, 2839, 1621, 5572, 388, 1738, 481, 17455, 4303, 2525, 3790, 10165, 736, 3004, 1776, 7480, 17330, 1957, 1008, 8333, 647, 1076, 8422, 4997, 945, 8077, 776, 561, 7589, 2039, 589, 776, 842, 734, 8629, 2431, 6115, 12702, 507, 537, 1154, 6651, 3840, 1002, 2819, 8701, 4455, 666, 3759, 1040, 3340, 9193, 863, 2171, 8524, 502, 16689, 391, 430, 1079, 4022, 742, 6479, 4053, 2244, 6630, 4325, 3724, 710, 561, 877, 814, 3333, 921, 10977, 3136, 5651, 3923, 1772, 1132, 561, 645, 899, 675, 3416, 710, 540, 6807, 891, 3640, 551, 3557, 3471, 15851, 1079, 1993, 706, 5515, 9891, 1817, 8381, 653, 828, 673, 1720, 8763, 2397, 2724, 1970, 645, 2082, 3254, 1996, 391, 1932, 6632, 2685, 4350, 3710, 11189, 9863, 483, 1721, 3763, 1594, 1812],
+      "text": ["carat: 0.30<br />price:   608<br />clarity: VS1", "carat: 0.55<br />price:  2079<br />clarity: VS1", "carat: 0.72<br />price:  3219<br />clarity: VS1", "carat: 0.57<br />price:  1665<br />clarity: VS1", "carat: 1.08<br />price:  6982<br />clarity: VS1", "carat: 0.33<br />price:   579<br />clarity: VS1", "carat: 1.00<br />price:  6606<br />clarity: VS1", "carat: 0.31<br />price:   625<br />clarity: VS1", "carat: 0.54<br />price:  1630<br />clarity: VS1", "carat: 0.33<br />price:   743<br />clarity: VS1", "carat: 1.70<br />price: 12996<br />clarity: VS1", "carat: 0.90<br />price:  3175<br />clarity: VS1", "carat: 0.54<br />price:  1760<br />clarity: VS1", "carat: 1.00<br />price:  6000<br />clarity: VS1", "carat: 0.40<br />price:   810<br />clarity: VS1", "carat: 1.27<br />price:  9371<br />clarity: VS1", "carat: 0.72<br />price:  2998<br />clarity: VS1", "carat: 0.32<br />price:   702<br />clarity: VS1", "carat: 1.01<br />price:  4412<br />clarity: VS1", "carat: 0.31<br />price:   544<br />clarity: VS1", "carat: 1.52<br />price: 11804<br />clarity: VS1", "carat: 1.01<br />price:  6499<br />clarity: VS1", "carat: 0.31<br />price:   544<br />clarity: VS1", "carat: 0.58<br />price:  1911<br />clarity: VS1", "carat: 1.20<br />price:  8596<br />clarity: VS1", "carat: 0.33<br />price:   579<br />clarity: VS1", "carat: 0.54<br />price:  1941<br />clarity: VS1", "carat: 1.51<br />price: 14028<br />clarity: VS1", "carat: 0.53<br />price:  1636<br />clarity: VS1", "carat: 2.05<br />price: 15109<br />clarity: VS1", "carat: 0.30<br />price:   491<br />clarity: VS1", "carat: 0.35<br />price:   792<br />clarity: VS1", "carat: 0.80<br />price:  3603<br />clarity: VS1", "carat: 0.50<br />price:  1807<br />clarity: VS1", "carat: 0.58<br />price:  2185<br />clarity: VS1", "carat: 0.30<br />price:   473<br />clarity: VS1", "carat: 0.48<br />price:  1404<br />clarity: VS1", "carat: 1.05<br />price:  7523<br />clarity: VS1", "carat: 1.21<br />price:  6607<br />clarity: VS1", "carat: 0.31<br />price:   489<br />clarity: VS1", "carat: 1.19<br />price:  7181<br />clarity: VS1", "carat: 1.52<br />price:  7186<br />clarity: VS1", "carat: 0.71<br />price:  2839<br />clarity: VS1", "carat: 0.52<br />price:  1621<br />clarity: VS1", "carat: 1.04<br />price:  5572<br />clarity: VS1", "carat: 0.25<br />price:   388<br />clarity: VS1", "carat: 0.49<br />price:  1738<br />clarity: VS1", "carat: 0.28<br />price:   481<br />clarity: VS1", "carat: 1.56<br />price: 17455<br />clarity: VS1", "carat: 1.09<br />price:  4303<br />clarity: VS1", "carat: 0.71<br />price:  2525<br />clarity: VS1", "carat: 1.01<br />price:  3790<br />clarity: VS1", "carat: 1.70<br />price: 10165<br />clarity: VS1", "carat: 0.40<br />price:   736<br />clarity: VS1", "carat: 0.70<br />price:  3004<br />clarity: VS1", "carat: 0.53<br />price:  1776<br />clarity: VS1", "carat: 1.32<br />price:  7480<br />clarity: VS1", "carat: 1.70<br />price: 17330<br />clarity: VS1", "carat: 0.54<br />price:  1957<br />clarity: VS1", "carat: 0.43<br />price:  1008<br />clarity: VS1", "carat: 1.00<br />price:  8333<br />clarity: VS1", "carat: 0.29<br />price:   647<br />clarity: VS1", "carat: 0.41<br />price:  1076<br />clarity: VS1", "carat: 1.09<br />price:  8422<br />clarity: VS1", "carat: 1.04<br />price:  4997<br />clarity: VS1", "carat: 0.45<br />price:   945<br />clarity: VS1", "carat: 1.00<br />price:  8077<br />clarity: VS1", "carat: 0.30<br />price:   776<br />clarity: VS1", "carat: 0.32<br />price:   561<br />clarity: VS1", "carat: 1.16<br />price:  7589<br />clarity: VS1", "carat: 0.57<br />price:  2039<br />clarity: VS1", "carat: 0.40<br />price:   589<br />clarity: VS1", "carat: 0.30<br />price:   776<br />clarity: VS1", "carat: 0.32<br />price:   842<br />clarity: VS1", "carat: 0.31<br />price:   734<br />clarity: VS1", "carat: 1.21<br />price:  8629<br />clarity: VS1", "carat: 0.60<br />price:  2431<br />clarity: VS1", "carat: 1.12<br />price:  6115<br />clarity: VS1", "carat: 1.50<br />price: 12702<br />clarity: VS1", "carat: 0.29<br />price:   507<br />clarity: VS1", "carat: 0.34<br />price:   537<br />clarity: VS1", "carat: 0.41<br />price:  1154<br />clarity: VS1", "carat: 1.01<br />price:  6651<br />clarity: VS1", "carat: 0.70<br />price:  3840<br />clarity: VS1", "carat: 0.33<br />price:  1002<br />clarity: VS1", "carat: 0.72<br />price:  2819<br />clarity: VS1", "carat: 1.20<br />price:  8701<br />clarity: VS1", "carat: 1.00<br />price:  4455<br />clarity: VS1", "carat: 0.33<br />price:   666<br />clarity: VS1", "carat: 0.72<br />price:  3759<br />clarity: VS1", "carat: 0.44<br />price:  1040<br />clarity: VS1", "carat: 0.74<br />price:  3340<br />clarity: VS1", "carat: 1.14<br />price:  9193<br />clarity: VS1", "carat: 0.37<br />price:   863<br />clarity: VS1", "carat: 0.60<br />price:  2171<br />clarity: VS1", "carat: 1.51<br />price:  8524<br />clarity: VS1", "carat: 0.31<br />price:   502<br />clarity: VS1", "carat: 2.22<br />price: 16689<br />clarity: VS1", "carat: 0.23<br />price:   391<br />clarity: VS1", "carat: 0.26<br />price:   430<br />clarity: VS1", "carat: 0.41<br />price:  1079<br />clarity: VS1", "carat: 0.91<br />price:  4022<br />clarity: VS1", "carat: 0.30<br />price:   742<br />clarity: VS1", "carat: 1.03<br />price:  6479<br />clarity: VS1", "carat: 0.71<br />price:  4053<br />clarity: VS1", "carat: 0.67<br />price:  2244<br />clarity: VS1", "carat: 1.10<br />price:  6630<br />clarity: VS1", "carat: 0.84<br />price:  4325<br />clarity: VS1", "carat: 0.90<br />price:  3724<br />clarity: VS1", "carat: 0.30<br />price:   710<br />clarity: VS1", "carat: 0.32<br />price:   561<br />clarity: VS1", "carat: 0.40<br />price:   877<br />clarity: VS1", "carat: 0.31<br />price:   814<br />clarity: VS1", "carat: 0.71<br />price:  3333<br />clarity: VS1", "carat: 0.42<br />price:   921<br />clarity: VS1", "carat: 1.32<br />price: 10977<br />clarity: VS1", "carat: 0.71<br />price:  3136<br />clarity: VS1", "carat: 1.06<br />price:  5651<br />clarity: VS1", "carat: 0.78<br />price:  3923<br />clarity: VS1", "carat: 0.58<br />price:  1772<br />clarity: VS1", "carat: 0.42<br />price:  1132<br />clarity: VS1", "carat: 0.32<br />price:   561<br />clarity: VS1", "carat: 0.32<br />price:   645<br />clarity: VS1", "carat: 0.41<br />price:   899<br />clarity: VS1", "carat: 0.30<br />price:   675<br />clarity: VS1", "carat: 0.74<br />price:  3416<br />clarity: VS1", "carat: 0.30<br />price:   710<br />clarity: VS1", "carat: 0.33<br />price:   540<br />clarity: VS1", "carat: 0.96<br />price:  6807<br />clarity: VS1", "carat: 0.41<br />price:   891<br />clarity: VS1", "carat: 1.00<br />price:  3640<br />clarity: VS1", "carat: 0.32<br />price:   551<br />clarity: VS1", "carat: 0.73<br />price:  3557<br />clarity: VS1", "carat: 0.73<br />price:  3471<br />clarity: VS1", "carat: 2.00<br />price: 15851<br />clarity: VS1", "carat: 0.41<br />price:  1079<br />clarity: VS1", "carat: 0.59<br />price:  1993<br />clarity: VS1", "carat: 0.35<br />price:   706<br />clarity: VS1", "carat: 1.01<br />price:  5515<br />clarity: VS1", "carat: 1.31<br />price:  9891<br />clarity: VS1", "carat: 0.57<br />price:  1817<br />clarity: VS1", "carat: 1.23<br />price:  8381<br />clarity: VS1", "carat: 0.30<br />price:   653<br />clarity: VS1", "carat: 0.32<br />price:   828<br />clarity: VS1", "carat: 0.30<br />price:   673<br />clarity: VS1", "carat: 0.57<br />price:  1720<br />clarity: VS1", "carat: 1.56<br />price:  8763<br />clarity: VS1", "carat: 0.71<br />price:  2397<br />clarity: VS1", "carat: 0.84<br />price:  2724<br />clarity: VS1", "carat: 0.51<br />price:  1970<br />clarity: VS1", "carat: 0.32<br />price:   645<br />clarity: VS1", "carat: 0.58<br />price:  2082<br />clarity: VS1", "carat: 0.74<br />price:  3254<br />clarity: VS1", "carat: 0.55<br />price:  1996<br />clarity: VS1", "carat: 0.24<br />price:   391<br />clarity: VS1", "carat: 0.71<br />price:  1932<br />clarity: VS1", "carat: 1.04<br />price:  6632<br />clarity: VS1", "carat: 0.71<br />price:  2685<br />clarity: VS1", "carat: 0.78<br />price:  4350<br />clarity: VS1", "carat: 0.71<br />price:  3710<br />clarity: VS1", "carat: 1.50<br />price: 11189<br />clarity: VS1", "carat: 1.23<br />price:  9863<br />clarity: VS1", "carat: 0.23<br />price:   483<br />clarity: VS1", "carat: 0.53<br />price:  1721<br />clarity: VS1", "carat: 1.00<br />price:  3763<br />clarity: VS1", "carat: 0.52<br />price:  1594<br />clarity: VS1", "carat: 0.53<br />price:  1812<br />clarity: VS1"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(31,161,135,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(31,161,135,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "VS1",
+      "legendgroup": "VS1",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.41, 0.72, 1.04, 0.79, 1.12, 0.28, 0.9, 0.42, 0.32, 0.39, 1.1, 0.4, 0.47, 0.23, 0.38, 1.01, 0.59, 0.34, 0.23, 0.92, 0.28, 0.7, 1.15, 0.31, 0.31, 0.43, 1, 0.39, 0.54, 0.61, 0.71, 1.21, 1.02, 1.25, 0.35, 0.23, 0.53, 0.32, 1.2, 0.54, 1.07, 0.54, 0.31, 1.23, 1.03, 0.33, 0.4, 1.2, 0.75, 0.4, 1.05, 0.41, 1.04, 0.32, 0.7, 0.4, 0.3, 1.24, 0.23, 1.04, 0.4, 1.06, 0.72, 0.9, 0.54, 0.32, 0.34, 0.5, 0.51, 1.51, 1.07, 0.32, 0.37, 0.41, 1.21, 0.3, 0.74, 0.72, 0.57, 0.46, 0.25, 1.14, 0.5, 0.31, 0.31, 0.31, 0.32, 0.4, 0.3, 0.24, 0.36, 0.51, 1.39, 0.31, 0.42, 1, 1.12, 0.3, 0.72, 0.34],
+      "y": [1243, 3250, 8722, 4092, 10028, 827, 4011, 1069, 708, 988, 9148, 1158, 1418, 465, 1073, 6670, 2155, 1003, 505, 5390, 828, 3046, 8743, 917, 1046, 1129, 8958, 1088, 2391, 2660, 3494, 9484, 7800, 13623, 1024, 530, 2407, 816, 9785, 2060, 10061, 1696, 802, 10004, 11335, 579, 1015, 11530, 3525, 807, 9138, 1187, 9705, 548, 3267, 1238, 1013, 13929, 680, 9218, 988, 8149, 3179, 6872, 2313, 828, 995, 2275, 1750, 15303, 7975, 730, 920, 1192, 9541, 731, 3495, 2889, 2351, 1006, 462, 11206, 1814, 766, 1046, 907, 672, 1111, 737, 485, 1042, 1875, 9298, 565, 984, 7392, 8701, 605, 2386, 686],
+      "text": ["carat: 0.41<br />price:  1243<br />clarity: VVS2", "carat: 0.72<br />price:  3250<br />clarity: VVS2", "carat: 1.04<br />price:  8722<br />clarity: VVS2", "carat: 0.79<br />price:  4092<br />clarity: VVS2", "carat: 1.12<br />price: 10028<br />clarity: VVS2", "carat: 0.28<br />price:   827<br />clarity: VVS2", "carat: 0.90<br />price:  4011<br />clarity: VVS2", "carat: 0.42<br />price:  1069<br />clarity: VVS2", "carat: 0.32<br />price:   708<br />clarity: VVS2", "carat: 0.39<br />price:   988<br />clarity: VVS2", "carat: 1.10<br />price:  9148<br />clarity: VVS2", "carat: 0.40<br />price:  1158<br />clarity: VVS2", "carat: 0.47<br />price:  1418<br />clarity: VVS2", "carat: 0.23<br />price:   465<br />clarity: VVS2", "carat: 0.38<br />price:  1073<br />clarity: VVS2", "carat: 1.01<br />price:  6670<br />clarity: VVS2", "carat: 0.59<br />price:  2155<br />clarity: VVS2", "carat: 0.34<br />price:  1003<br />clarity: VVS2", "carat: 0.23<br />price:   505<br />clarity: VVS2", "carat: 0.92<br />price:  5390<br />clarity: VVS2", "carat: 0.28<br />price:   828<br />clarity: VVS2", "carat: 0.70<br />price:  3046<br />clarity: VVS2", "carat: 1.15<br />price:  8743<br />clarity: VVS2", "carat: 0.31<br />price:   917<br />clarity: VVS2", "carat: 0.31<br />price:  1046<br />clarity: VVS2", "carat: 0.43<br />price:  1129<br />clarity: VVS2", "carat: 1.00<br />price:  8958<br />clarity: VVS2", "carat: 0.39<br />price:  1088<br />clarity: VVS2", "carat: 0.54<br />price:  2391<br />clarity: VVS2", "carat: 0.61<br />price:  2660<br />clarity: VVS2", "carat: 0.71<br />price:  3494<br />clarity: VVS2", "carat: 1.21<br />price:  9484<br />clarity: VVS2", "carat: 1.02<br />price:  7800<br />clarity: VVS2", "carat: 1.25<br />price: 13623<br />clarity: VVS2", "carat: 0.35<br />price:  1024<br />clarity: VVS2", "carat: 0.23<br />price:   530<br />clarity: VVS2", "carat: 0.53<br />price:  2407<br />clarity: VVS2", "carat: 0.32<br />price:   816<br />clarity: VVS2", "carat: 1.20<br />price:  9785<br />clarity: VVS2", "carat: 0.54<br />price:  2060<br />clarity: VVS2", "carat: 1.07<br />price: 10061<br />clarity: VVS2", "carat: 0.54<br />price:  1696<br />clarity: VVS2", "carat: 0.31<br />price:   802<br />clarity: VVS2", "carat: 1.23<br />price: 10004<br />clarity: VVS2", "carat: 1.03<br />price: 11335<br />clarity: VVS2", "carat: 0.33<br />price:   579<br />clarity: VVS2", "carat: 0.40<br />price:  1015<br />clarity: VVS2", "carat: 1.20<br />price: 11530<br />clarity: VVS2", "carat: 0.75<br />price:  3525<br />clarity: VVS2", "carat: 0.40<br />price:   807<br />clarity: VVS2", "carat: 1.05<br />price:  9138<br />clarity: VVS2", "carat: 0.41<br />price:  1187<br />clarity: VVS2", "carat: 1.04<br />price:  9705<br />clarity: VVS2", "carat: 0.32<br />price:   548<br />clarity: VVS2", "carat: 0.70<br />price:  3267<br />clarity: VVS2", "carat: 0.40<br />price:  1238<br />clarity: VVS2", "carat: 0.30<br />price:  1013<br />clarity: VVS2", "carat: 1.24<br />price: 13929<br />clarity: VVS2", "carat: 0.23<br />price:   680<br />clarity: VVS2", "carat: 1.04<br />price:  9218<br />clarity: VVS2", "carat: 0.40<br />price:   988<br />clarity: VVS2", "carat: 1.06<br />price:  8149<br />clarity: VVS2", "carat: 0.72<br />price:  3179<br />clarity: VVS2", "carat: 0.90<br />price:  6872<br />clarity: VVS2", "carat: 0.54<br />price:  2313<br />clarity: VVS2", "carat: 0.32<br />price:   828<br />clarity: VVS2", "carat: 0.34<br />price:   995<br />clarity: VVS2", "carat: 0.50<br />price:  2275<br />clarity: VVS2", "carat: 0.51<br />price:  1750<br />clarity: VVS2", "carat: 1.51<br />price: 15303<br />clarity: VVS2", "carat: 1.07<br />price:  7975<br />clarity: VVS2", "carat: 0.32<br />price:   730<br />clarity: VVS2", "carat: 0.37<br />price:   920<br />clarity: VVS2", "carat: 0.41<br />price:  1192<br />clarity: VVS2", "carat: 1.21<br />price:  9541<br />clarity: VVS2", "carat: 0.30<br />price:   731<br />clarity: VVS2", "carat: 0.74<br />price:  3495<br />clarity: VVS2", "carat: 0.72<br />price:  2889<br />clarity: VVS2", "carat: 0.57<br />price:  2351<br />clarity: VVS2", "carat: 0.46<br />price:  1006<br />clarity: VVS2", "carat: 0.25<br />price:   462<br />clarity: VVS2", "carat: 1.14<br />price: 11206<br />clarity: VVS2", "carat: 0.50<br />price:  1814<br />clarity: VVS2", "carat: 0.31<br />price:   766<br />clarity: VVS2", "carat: 0.31<br />price:  1046<br />clarity: VVS2", "carat: 0.31<br />price:   907<br />clarity: VVS2", "carat: 0.32<br />price:   672<br />clarity: VVS2", "carat: 0.40<br />price:  1111<br />clarity: VVS2", "carat: 0.30<br />price:   737<br />clarity: VVS2", "carat: 0.24<br />price:   485<br />clarity: VVS2", "carat: 0.36<br />price:  1042<br />clarity: VVS2", "carat: 0.51<br />price:  1875<br />clarity: VVS2", "carat: 1.39<br />price:  9298<br />clarity: VVS2", "carat: 0.31<br />price:   565<br />clarity: VVS2", "carat: 0.42<br />price:   984<br />clarity: VVS2", "carat: 1.00<br />price:  7392<br />clarity: VVS2", "carat: 1.12<br />price:  8701<br />clarity: VVS2", "carat: 0.30<br />price:   605<br />clarity: VVS2", "carat: 0.72<br />price:  2386<br />clarity: VVS2", "carat: 0.34<br />price:   686<br />clarity: VVS2"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(74,193,109,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(74,193,109,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "VVS2",
+      "legendgroup": "VVS2",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.23, 0.31, 0.23, 1.01, 0.25, 0.3, 0.35, 0.7, 0.72, 0.51, 0.52, 0.58, 0.44, 0.31, 1.14, 0.59, 0.52, 0.41, 0.41, 0.58, 0.34, 0.29, 0.5, 0.24, 0.31, 0.4, 0.26, 0.58, 0.42, 0.51, 0.3, 0.3, 0.55, 0.32, 0.5, 0.42, 0.56, 0.42, 0.54, 0.5, 0.32, 0.5, 0.36, 1.3, 1.14, 0.31, 0.3, 0.4, 0.42, 0.72, 0.7, 0.31, 0.53, 0.32, 1.06, 0.33, 0.41, 0.41, 0.34, 0.29, 1.7, 0.39, 0.38, 0.28],
+      "y": [439, 707, 434, 7412, 740, 764, 1247, 4951, 2208, 3226, 2113, 3732, 1294, 772, 11737, 2625, 1754, 1213, 1166, 1805, 995, 563, 2008, 521, 1046, 1080, 532, 3154, 865, 3197, 789, 873, 2632, 1020, 1648, 1235, 1622, 1621, 1846, 2180, 827, 1596, 1140, 11162, 10878, 949, 1000, 1191, 1621, 2642, 4341, 1075, 3352, 730, 6945, 1130, 1356, 1068, 1174, 673, 18279, 921, 1257, 646],
+      "text": ["carat: 0.23<br />price:   439<br />clarity: VVS1", "carat: 0.31<br />price:   707<br />clarity: VVS1", "carat: 0.23<br />price:   434<br />clarity: VVS1", "carat: 1.01<br />price:  7412<br />clarity: VVS1", "carat: 0.25<br />price:   740<br />clarity: VVS1", "carat: 0.30<br />price:   764<br />clarity: VVS1", "carat: 0.35<br />price:  1247<br />clarity: VVS1", "carat: 0.70<br />price:  4951<br />clarity: VVS1", "carat: 0.72<br />price:  2208<br />clarity: VVS1", "carat: 0.51<br />price:  3226<br />clarity: VVS1", "carat: 0.52<br />price:  2113<br />clarity: VVS1", "carat: 0.58<br />price:  3732<br />clarity: VVS1", "carat: 0.44<br />price:  1294<br />clarity: VVS1", "carat: 0.31<br />price:   772<br />clarity: VVS1", "carat: 1.14<br />price: 11737<br />clarity: VVS1", "carat: 0.59<br />price:  2625<br />clarity: VVS1", "carat: 0.52<br />price:  1754<br />clarity: VVS1", "carat: 0.41<br />price:  1213<br />clarity: VVS1", "carat: 0.41<br />price:  1166<br />clarity: VVS1", "carat: 0.58<br />price:  1805<br />clarity: VVS1", "carat: 0.34<br />price:   995<br />clarity: VVS1", "carat: 0.29<br />price:   563<br />clarity: VVS1", "carat: 0.50<br />price:  2008<br />clarity: VVS1", "carat: 0.24<br />price:   521<br />clarity: VVS1", "carat: 0.31<br />price:  1046<br />clarity: VVS1", "carat: 0.40<br />price:  1080<br />clarity: VVS1", "carat: 0.26<br />price:   532<br />clarity: VVS1", "carat: 0.58<br />price:  3154<br />clarity: VVS1", "carat: 0.42<br />price:   865<br />clarity: VVS1", "carat: 0.51<br />price:  3197<br />clarity: VVS1", "carat: 0.30<br />price:   789<br />clarity: VVS1", "carat: 0.30<br />price:   873<br />clarity: VVS1", "carat: 0.55<br />price:  2632<br />clarity: VVS1", "carat: 0.32<br />price:  1020<br />clarity: VVS1", "carat: 0.50<br />price:  1648<br />clarity: VVS1", "carat: 0.42<br />price:  1235<br />clarity: VVS1", "carat: 0.56<br />price:  1622<br />clarity: VVS1", "carat: 0.42<br />price:  1621<br />clarity: VVS1", "carat: 0.54<br />price:  1846<br />clarity: VVS1", "carat: 0.50<br />price:  2180<br />clarity: VVS1", "carat: 0.32<br />price:   827<br />clarity: VVS1", "carat: 0.50<br />price:  1596<br />clarity: VVS1", "carat: 0.36<br />price:  1140<br />clarity: VVS1", "carat: 1.30<br />price: 11162<br />clarity: VVS1", "carat: 1.14<br />price: 10878<br />clarity: VVS1", "carat: 0.31<br />price:   949<br />clarity: VVS1", "carat: 0.30<br />price:  1000<br />clarity: VVS1", "carat: 0.40<br />price:  1191<br />clarity: VVS1", "carat: 0.42<br />price:  1621<br />clarity: VVS1", "carat: 0.72<br />price:  2642<br />clarity: VVS1", "carat: 0.70<br />price:  4341<br />clarity: VVS1", "carat: 0.31<br />price:  1075<br />clarity: VVS1", "carat: 0.53<br />price:  3352<br />clarity: VVS1", "carat: 0.32<br />price:   730<br />clarity: VVS1", "carat: 1.06<br />price:  6945<br />clarity: VVS1", "carat: 0.33<br />price:  1130<br />clarity: VVS1", "carat: 0.41<br />price:  1356<br />clarity: VVS1", "carat: 0.41<br />price:  1068<br />clarity: VVS1", "carat: 0.34<br />price:  1174<br />clarity: VVS1", "carat: 0.29<br />price:   673<br />clarity: VVS1", "carat: 1.70<br />price: 18279<br />clarity: VVS1", "carat: 0.39<br />price:   921<br />clarity: VVS1", "carat: 0.38<br />price:  1257<br />clarity: VVS1", "carat: 0.28<br />price:   646<br />clarity: VVS1"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(159,218,58,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(159,218,58,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "VVS1",
+      "legendgroup": "VVS1",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0.3, 0.32, 0.41, 0.51, 0.31, 0.73, 0.3, 0.3, 0.3, 0.31, 1, 0.32, 0.35, 0.39, 0.31, 0.32, 1.05, 1.06, 0.31, 0.3, 1.01, 0.3, 0.39, 1.05, 0.26, 0.28, 0.3, 0.31, 0.43, 0.31, 0.4, 0.51, 1.01],
+      "y": [810, 918, 1367, 2162, 891, 3880, 886, 863, 886, 988, 10954, 814, 1116, 1271, 914, 929, 11838, 8415, 914, 984, 7974, 886, 1433, 11025, 468, 650, 957, 914, 1580, 891, 1257, 2304, 9063],
+      "text": ["carat: 0.30<br />price:   810<br />clarity: IF", "carat: 0.32<br />price:   918<br />clarity: IF", "carat: 0.41<br />price:  1367<br />clarity: IF", "carat: 0.51<br />price:  2162<br />clarity: IF", "carat: 0.31<br />price:   891<br />clarity: IF", "carat: 0.73<br />price:  3880<br />clarity: IF", "carat: 0.30<br />price:   886<br />clarity: IF", "carat: 0.30<br />price:   863<br />clarity: IF", "carat: 0.30<br />price:   886<br />clarity: IF", "carat: 0.31<br />price:   988<br />clarity: IF", "carat: 1.00<br />price: 10954<br />clarity: IF", "carat: 0.32<br />price:   814<br />clarity: IF", "carat: 0.35<br />price:  1116<br />clarity: IF", "carat: 0.39<br />price:  1271<br />clarity: IF", "carat: 0.31<br />price:   914<br />clarity: IF", "carat: 0.32<br />price:   929<br />clarity: IF", "carat: 1.05<br />price: 11838<br />clarity: IF", "carat: 1.06<br />price:  8415<br />clarity: IF", "carat: 0.31<br />price:   914<br />clarity: IF", "carat: 0.30<br />price:   984<br />clarity: IF", "carat: 1.01<br />price:  7974<br />clarity: IF", "carat: 0.30<br />price:   886<br />clarity: IF", "carat: 0.39<br />price:  1433<br />clarity: IF", "carat: 1.05<br />price: 11025<br />clarity: IF", "carat: 0.26<br />price:   468<br />clarity: IF", "carat: 0.28<br />price:   650<br />clarity: IF", "carat: 0.30<br />price:   957<br />clarity: IF", "carat: 0.31<br />price:   914<br />clarity: IF", "carat: 0.43<br />price:  1580<br />clarity: IF", "carat: 0.31<br />price:   891<br />clarity: IF", "carat: 0.40<br />price:  1257<br />clarity: IF", "carat: 0.51<br />price:  2304<br />clarity: IF", "carat: 1.01<br />price:  9063<br />clarity: IF"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(253,231,37,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(253,231,37,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "IF",
+      "legendgroup": "IF",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 24.8321761431163,
+      "r": 7.30593607305936,
+      "b": 38.7865140426597,
+      "l": 54.7945205479452
+    },
+    "plot_bgcolor": "rgba(235,235,235,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [0.116, 2.624],
+      "tickmode": "array",
+      "ticktext": ["0.5", "1.0", "1.5", "2.0", "2.5"],
+      "tickvals": [0.5, 1, 1.5, 2, 2.5],
+      "categoryorder": "array",
+      "categoryarray": ["0.5", "1.0", "1.5", "2.0", "2.5"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "y",
+      "title": "carat",
+      "titlefont": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 14.6118721461187
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-526.7, 19222.7],
+      "tickmode": "array",
+      "ticktext": ["0", "5000", "10000", "15000"],
+      "tickvals": [0, 5000, 10000, 15000],
+      "categoryorder": "array",
+      "categoryarray": ["0", "5000", "10000", "15000"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "x",
+      "title": "price",
+      "titlefont": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 14.6118721461187
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": true,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 1.88976377952756,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "y": 0.946607701434581
+    },
+    "annotations": [
+      {
+        "text": "clarity",
+        "x": 1.02,
+        "y": 1,
+        "showarrow": false,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "textangle": -0,
+        "xanchor": "left",
+        "yanchor": "bottom",
+        "legendTitle": true
+      }
+    ],
+    "hovermode": "closest",
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": [
+      {
+        "name": "Collaborate",
+        "icon": {
+          "width": 1000,
+          "ascent": 500,
+          "descent": -50,
+          "path": "M487 375c7-10 9-23 5-36l-79-259c-3-12-11-23-22-31-11-8-22-12-35-12l-263 0c-15 0-29 5-43 15-13 10-23 23-28 37-5 13-5 25-1 37 0 0 0 3 1 7 1 5 1 8 1 11 0 2 0 4-1 6 0 3-1 5-1 6 1 2 2 4 3 6 1 2 2 4 4 6 2 3 4 5 5 7 5 7 9 16 13 26 4 10 7 19 9 26 0 2 0 5 0 9-1 4-1 6 0 8 0 2 2 5 4 8 3 3 5 5 5 7 4 6 8 15 12 26 4 11 7 19 7 26 1 1 0 4 0 9-1 4-1 7 0 8 1 2 3 5 6 8 4 4 6 6 6 7 4 5 8 13 13 24 4 11 7 20 7 28 1 1 0 4 0 7-1 3-1 6-1 7 0 2 1 4 3 6 1 1 3 4 5 6 2 3 3 5 5 6 1 2 3 5 4 9 2 3 3 7 5 10 1 3 2 6 4 10 2 4 4 7 6 9 2 3 4 5 7 7 3 2 7 3 11 3 3 0 8 0 13-1l0-1c7 2 12 2 14 2l218 0c14 0 25-5 32-16 8-10 10-23 6-37l-79-259c-7-22-13-37-20-43-7-7-19-10-37-10l-248 0c-5 0-9-2-11-5-2-3-2-7 0-12 4-13 18-20 41-20l264 0c5 0 10 2 16 5 5 3 8 6 10 11l85 282c2 5 2 10 2 17 7-3 13-7 17-13z m-304 0c-1-3-1-5 0-7 1-1 3-2 6-2l174 0c2 0 4 1 7 2 2 2 4 4 5 7l6 18c0 3 0 5-1 7-1 1-3 2-6 2l-173 0c-3 0-5-1-8-2-2-2-4-4-4-7z m-24-73c-1-3-1-5 0-7 2-2 3-2 6-2l174 0c2 0 5 0 7 2 3 2 4 4 5 7l6 18c1 2 0 5-1 6-1 2-3 3-5 3l-174 0c-3 0-5-1-7-3-3-1-4-4-5-6z"
+        },
+        "click": "function(gd) { \n        // is this being viewed in RStudio?\n        if (location.search == '?viewer_pane=1') {\n          alert('To learn about plotly for collaboration, visit:\\n https://cpsievert.github.io/plotly_book/plot-ly-for-collaboration.html');\n        } else {\n          window.open('https://cpsievert.github.io/plotly_book/plot-ly-for-collaboration.html', '_blank');\n        }\n      }"
+      }
+    ],
+    "cloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "e8076e6ee605": {
+      "x": {},
+      "y": {},
+      "colour": {},
+      "type": "scatter"
+    }
+  },
+  "cur_data": "e8076e6ee605",
+  "visdat": {
+    "e8076e6ee605": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "base_url": "https://plot.ly"
+}
